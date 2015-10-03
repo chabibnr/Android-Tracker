@@ -3,7 +3,7 @@ Layanan Informasi Tracking dengan Android
 
 #Contoh Respon server 
 contoh dumy respon data, menggunakan php >= 5.4 
-untuk melakukan pengaturan alamat server Anda dapat melihatnya disini 
+untuk melakukan pengaturan alamat server Anda dapat melihat dan mengeditnya disini 
 https://github.com/chabibnr/Info-Pengiriman/blob/master/app/src/main/java/net/chabibnr/tracker/Info.java#L29
 ~~~
 <?php
