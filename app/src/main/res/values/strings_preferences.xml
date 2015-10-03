@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PREF_KEY">ConfPrefe</string>
+
+    <string name="PREF_HEADER_ACCOUNT">AKUN</string>
+
+    <string name="PREF_TITLE_USERNAME">Email</string>
+    <string name="PREF_KEY_USERNAME">CONFIG_ACCOUNT_USERNAME</string>
+    <string name="PREF_KEY_USERNAME_TEXT">CONFIG_ACCOUNT_USERNAME_TEXT</string>
+
+    <string name="PREF_HEADER_SYNC">Sinkronisasi Data</string>
+    <string name="PREF_TITLE_AUTO_CHECK">Sinkronisasi Otomatis</string>
+    <string name="PREF_KEY_AUTO_CHECK">CONFIG_AUTO_CHECK</string>
+
+    <string name="PREF_TITLE_AUTO_CHECK_DELAY">Sinkronisasi Delay</string>
+    <string name="PREF_KEY_AUTO_CHECK_DELAY">CONFIG_AUTO_CHECK_DELAY</string>
+
+    <string name="PREF_HEADER_NOTIFICATION">Notifikasi</string>
+    <string name="PREF_TITLE_NOTIFICATION">Notifikasi</string>
+    <string name="PREF_KEY_NOTIFICATION">CONFIG_NOTIFICATION</string>
+
+    <string name="PREF_TITLE_NOTIFICATION_RINGTONE">Suara</string>
+    <string name="PREF_KEY_NOTIFICATION_RINGTONE">CONFIG_NOTIFICATION_SOUND</string>
+
+    <string name="PREF_TITLE_NOTIFICATION_LED">Lampu LED</string>
+    <string name="PREF_KEY_NOTIFICATION_LED">CONFIG_NOTIFICATION_LED</string>
+
+    <string name="PREF_TITLE_NOTIFICATION_VIBRATE">Getar</string>
+    <string name="PREF_KEY_NOTIFICATION_VIBRATE">CONFIG_NOTIFICATION_VIBRATE</string>
+</resources>
