@@ -1,6 +1,9 @@
 # Android-Tracker
 Layanan Informasi Tracking dengan Android
 
+#dependencies
+https://github.com/chabibnr/Info-Pengiriman/blob/master/app/build.gradle#L22
+
 #Contoh Respon server 
 contoh dumy respon data, menggunakan php >= 5.4 
 untuk melakukan pengaturan alamat server Anda dapat melihat dan mengeditnya disini 
